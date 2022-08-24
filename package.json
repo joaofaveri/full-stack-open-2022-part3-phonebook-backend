@@ -1,0 +1,26 @@
+{
+  "name": "phonebook",
+  "version": "1.0.0",
+  "description": "Implement a Node application that returns a hardcoded list of phonebook entries",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "nodemon",
+    "javascript",
+    "backend"
+  ],
+  "author": "João Paulo de Faveri",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
